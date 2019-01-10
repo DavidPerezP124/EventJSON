@@ -1,5 +1,5 @@
 {
-	"posts": {
+	"posts":[ {
 			"id": 1,
 			"name": "Day Event",
 			"img": "https://github.com/DavidPerezP124/EventJSON/blob/master/art-design-gallery-460736.jpg",
@@ -20,5 +20,6 @@
 			"cost": 35,
 			"time": "day"
 		}
+	]
 	
 }
