@@ -15,9 +15,23 @@
 				"time": "night"
 			},
 			{
-				"id": 2,
+				"id": 3,
 				"name": "Day Event",
 				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/art-design-gallery-460736.jpg",
+				"cost": 35,
+				"time": "day"
+			},
+			 {
+				"id": 4,
+				"name": "Day Event",
+				"img": "https://raw.github.com/DavidPerezP124/EventJSON/blob/master/alcohol-alcoholic-bar-16408.jpg",
+				"cost": 35,
+				"time": "day"
+			},
+			 {
+				"id": 5,
+				"name": "Day Event",
+				"img": "https://raw.github.com/DavidPerezP124/EventJSON/blob/master/action-adults-celebration-433452.jpg",
 				"cost": 35,
 				"time": "day"
 			}
