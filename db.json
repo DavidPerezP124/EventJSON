@@ -11,7 +11,7 @@
 			"name": "Night Event",
 			"img": "https://github.com/DavidPerezP124/EventJSON/blob/master/architecture-auditorium-blue-382297.jpg",
 			"cost": 35,
-			"time": "day"
+			"time": "night"
 		},
 		{
 			"id": 2,
