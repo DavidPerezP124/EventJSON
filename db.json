@@ -24,14 +24,14 @@
 			 {
 				"id": 4,
 				"name": "Day Event",
-				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/blob/master/alcohol-alcoholic-bar-16408.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/alcohol-alcoholic-bar-16408.jpg",
 				"cost": 35,
 				"time": "day"
 			},
 			 {
 				"id": 5,
 				"name": "Day Event",
-				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/blob/master/action-adults-celebration-433452.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/action-adults-celebration-433452.jpg",
 				"cost": 35,
 				"time": "day"
 			}
