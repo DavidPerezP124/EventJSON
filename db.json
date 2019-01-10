@@ -3,7 +3,7 @@
 	"posts":	[{
 				"id": 1,
 				"name": "Day Event",
-				"img": "https://github.com/DavidPerezP124/EventJSON/blob/master/art-design-gallery-460736.jpg",
+				"img": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
 				"cost": 35,
 				"time": "day"
 			},
