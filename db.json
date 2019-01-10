@@ -3,21 +3,21 @@
 	"posts":	[{
 				"id": 1,
 				"name": "Day Event",
-				"img": "https://images.pexels.com/photos/976866/pexels-photo-976866.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=750&w=1260",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/audience-blur-bokeh-976866.jpg",
 				"cost": 35,
 				"time": "day"
 			},
 			{
 				"id": 2,
 				"name": "Night Event",
-				"img": "https://github.com/DavidPerezP124/EventJSON/blob/master/architecture-auditorium-blue-382297.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/architecture-auditorium-blue-382297.jpg",
 				"cost": 35,
 				"time": "night"
 			},
 			{
 				"id": 2,
 				"name": "Day Event",
-				"img": "https://github.com/DavidPerezP124/EventJSON/blob/master/audience-blur-bokeh-976866.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/art-design-gallery-460736.jpg",
 				"cost": 35,
 				"time": "day"
 			}
