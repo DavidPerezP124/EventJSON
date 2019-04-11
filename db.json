@@ -3,7 +3,7 @@
 	"posts":	[{
 				"id": 1,
 				"name": "Day Event",
-				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/adult-bar-blur-696218.jpg.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/adult-bar-blur-696218.jpg",
 				"cost": 35,
 				"time": "day"
 			},
