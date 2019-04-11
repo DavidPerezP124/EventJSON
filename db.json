@@ -10,14 +10,14 @@
 			{
 				"id": 2,
 				"name": "Night Event",
-				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/action-adults-celebration-433452.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/audience-band-celebration-1190298.jpg",
 				"cost": 35,
 				"time": "night"
 			},
 			{
 				"id": 3,
 				"name": "Day Event",
-				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/alcohol-alcoholic-bar-16408.jpg",
+				"img": "https://raw.githubusercontent.com/DavidPerezP124/EventJSON/master/adult-bar-blur-696218.jpg",
 				"cost": 35,
 				"time": "day"
 			},
